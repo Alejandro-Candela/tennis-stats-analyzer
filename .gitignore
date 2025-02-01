@@ -132,3 +132,4 @@ models/
 training/tennis-ball-detection-6/tennis-ball-detection-6
 runs/
 input_videos/
+*.pt
